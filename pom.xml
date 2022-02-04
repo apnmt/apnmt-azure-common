@@ -21,7 +21,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub</name>
-			<url>https://maven.pkg.github.com/apnmt/apnmt-aws-common</url>
+			<url>https://maven.pkg.github.com/apnmt/apnmt-azure-common</url>
 		</repository>
 	</distributionManagement>
 
